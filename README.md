@@ -2,6 +2,8 @@
 
 npm helper 是一个 Chrome 扩展程序，旨在增强 npmjs.com 的包查看体验。它能帮助开发者更好地了解 npm 包的质量、相似包以及包体积等信息。
 
+DeepWiki: https://deepwiki.com/wongchisum/npm-helper
+
 ## 效果图
 
 ![效果图](https://github.com/wongchisum/npm-helper/blob/release/TinySnap-2025-06-27-16.45.55.png?raw=true)
